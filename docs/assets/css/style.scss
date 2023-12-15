@@ -3,12 +3,12 @@
 
 // Headers
 $header-heading-color: #fff;
-$header-bg-color: #0f0f0f;
-$header-bg-color-secondary: #575757;
+$header-bg-color: #575757;
+$header-bg-color-secondary: #0f0f0f;
 
 // Text
-$section-headings-color: #696a6b;
-$body-text-color: #696a6b;
+$section-headings-color: #575757;
+$body-text-color: #575757;
 $body-link-color: #b8351e;
 $blockquote-text-color: #999999;
 
@@ -23,7 +23,12 @@ $hr-border-color: #ebebeb;
 
 @import "{{ site.theme }}";
 
+.project-name {
+    color: #FFD600;
+}
+
 .btn,
 .btn:hover {
     color: #FFD600;
 }
+
