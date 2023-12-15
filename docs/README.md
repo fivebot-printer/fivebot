@@ -1,3 +1,6 @@
+---
+title: 5bot
+---
 # Home page
 
 ## About
