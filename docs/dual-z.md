@@ -1,5 +1,7 @@
 # fivebot Dual Z mod
 
+![overview](assets/images/dual-z/overview.png)
+
 ## Preparation
 Please read through the whole thing before getting started!
 
@@ -24,6 +26,12 @@ Print settings:
 
 ## Installation
 
+### Move the electronics enclosure
+1. Remove all of the screws securing the electronics enclosure
+2. Slide the enclosure backwards and slide the mounting brackets in place
+3. Secure the mounting brackets to the frame
+
+### Install new Z assembly
 1. Disassemble current Z assembly
 1. Remove flange bearings from the rods and install them into front and rear bed mount. If the fit is too tight, you might need to file down the seam on the inside or calibrate your printer. Potentially use something to get more pushing force, e.g. a vice.
 1. Install the lead screw nuts on the front and rear bed mounts using the stock screws (or new M3 screws). Only tighten loosely, holes are made bigger for the nut to be able to move slightly in the horizontal plane.
