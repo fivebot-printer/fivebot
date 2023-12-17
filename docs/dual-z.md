@@ -1,3 +1,3 @@
-# 5bot Dual Z mod
+# fivebot Dual Z mod
 
 TBA
