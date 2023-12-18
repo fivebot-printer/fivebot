@@ -16,7 +16,7 @@ Please read through the whole thing before getting started!
 |1|Pack of M3 + M4 screws and hex nuts| Socket head screws of standard lengths (will specify specific quantities later)|
 
 ## Printed parts
-Print the parts in the [STLs directory]({{site.github.repository_url}}/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
+Print the parts in the [STLs directory](https://github.com/hellbe/fivebot/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
 
 The stock motor mount is included as a backup, I have not tested the mod mount yet but it should be fine (more rigid and not protude outside the frame).
 
