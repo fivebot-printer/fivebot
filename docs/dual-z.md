@@ -2,10 +2,9 @@
 
 ![overview](assets/images/dual-z/overview.png)
 
-## Preparation
-Please read through the whole thing before getting started!
+**Note:** Please read through the whole thing carefully before getting started!
 
-### Bill of materials
+## Bill of materials
 |Quantity|Item|Comments|
 |---|---|---|
 |1|lead screw with nut|The screw thread needs to match your current lead screw, unless you buy two new identical ones. 363 mm length stock, 400 mm should work too|
