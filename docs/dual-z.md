@@ -6,21 +6,23 @@
 Please read through the whole thing before getting started!
 
 ### Bill of materials
-* 1 lead screw with nut matching your current lead screw, OR two new identical leadscrews with nuts. 363 mm length.
-* 1 stepper motor, creality 42-34
-* 1 stepper motor to lead screw coupler
-* 1 stepper motor cable for creality steppers (two cables swapped), standard cable if you have a board with two Z motor connectors or a splitter cable if your board has one connector (e.g. the stock board)
-* a pack of M4 T-nuts, twist-in style preferred, drop-in style works fine
-* A M3 + M4 socket head screw and hex nut kit with standard lengths (will specify specific quantities later)
+|Quantity|Item|Comments|
+|---|---|---|
+|1|lead screw with nut|The screw thread needs to match your current lead screw, unless you buy two new identical ones. 363 mm length stock, 400 mm should work too|
+|1|stepper motor|creality 42-34 motor|
+|1|lead screw coupler||
+|1|stepper motor cable| For Creality steppers with middle pair of cables swapped. Single standard cable if you have a board with two Z motor connectors or a splitter cable if your board has one connector (e.g. the stock board)|
+|1|Pack of M4 T-nuts| Twist-in style preferred, drop-in style works fine|
+|1|Pack of M3 + M4 screws and hex nuts| Socket head screws of standard lengths (will specify specific quantities later)|
 
 ## Printed parts
-Print the parts in the STLs directory, quanity per naming convention `[name]_[quanity].stl`.
+Print the parts in the [STLs directory]({{site.github.repository_url}}/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
 
 The stock motor mount is included as a backup, I have not tested the mod mount yet but it should be fine (more rigid and not protude outside the frame).
 
 Print settings:
-* Filament: preferrably ABS or ASA, if not possible then PETG, would not recommend PLA (temperature and wear)
-* Print with 5 top and bottom layers, 0.2 mm print-height
+* Filament: ABS or ASA preferrably, if not possible then PETG, would not recommend PLA (temperature and wear)
+* 5 top and bottom layers @ 0.2 mm layer height
 * Walls either 5 walls @ 0.4 mm line width or 4 walls @ 0.6 line width
 * 40% infill (or more)
 
