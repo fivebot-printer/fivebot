@@ -25,6 +25,11 @@ Print settings:
 * Walls either 5 walls @ 0.4 mm line width or 4 walls @ 0.6 line width
 * 40% infill (or more)
 
+### Stepper motor brackets
+The mod contains two different Z stepper motor mounting brackets. One plain, and one tweaked so that a F9-20M thrust bearing fits snugly. The bearing rests on top of the stepper motor, and the lead screw coupler rests on top of the bearing. This moves the axial downward load from the stepper shaft to the stepper housing and mounting bracket, potentially reducing Z axis banding/artifacts.
+
+![overview](assets/images/dual-z/thrust-bearing-bracket.png)
+
 ## Installation
 
 ### Move the electronics enclosure
