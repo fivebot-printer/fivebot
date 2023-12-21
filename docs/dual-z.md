@@ -2,7 +2,7 @@
 
 ![overview](assets/images/dual-z/overview.png)
 
-**Note:** Please read [general guidelines](index.html#general-instructions) before getting started
+**Note:** Please read [general instructions](index.html#general-instructions) before getting started
 
 ## Bill of materials
 |Quantity|Item|Comments|
@@ -16,7 +16,7 @@
 
 ## Printed parts
 * Print the parts in the [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
-* Print instructions in [general guidelines](index.html#general-instructions)
+* Print instructions in [general instructions](index.html#general-instructions)
 * The stock motor mount is included as a backup, I have not tested the two custom mounts yet but they should be better (more rigid and not protude outside the frame).
 
 ### Stepper motor brackets
