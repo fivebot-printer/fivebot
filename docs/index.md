@@ -22,7 +22,6 @@ The intention is in no way to compete with the already existing and awesome [Zer
 
 List of planned modifications, roughly in order of priority:
 
-
 * Core-XY using stock roller wheels (lots of core-xy mods with rails already exist)
 * Modular toolhead for the stock gantry
 
@@ -31,3 +30,20 @@ And future ideas and improvements:
 * Belt-driven dual Z with a single motor
 * Touch screen mount/support
 * Affordable triple-z setup with linear rods and stock bed
+
+## General instructions
+
+**DISCLAIMER:** any modification of your 3D printer is done at your own risk and this project comes without warranties!
+
+Read all of the instructions and notes before ripping your printer apart.
+
+### Printed parts
+Files in each mod's STLs directory, linked from each page. Required quantity per naming convention `[name]_[quantity].stl`. Any alternatives or optional parts are specified per mod.
+
+Currently STLs are not pre-oriented for printing, use your best judgement when slicing. Orientation be provided once the designs have matured.
+
+**Print settings:**
+* Filament: ABS or ASA preferrably, if not possible then PETG, PLA not recommended unless stated otherwise (temperature and mechanical properties)
+* 5 top and bottom layers @ 0.2 mm layer height
+* Walls either 5 walls @ 0.4 mm line width or 4 walls @ 0.6 line width
+* 40% infill (or more)
