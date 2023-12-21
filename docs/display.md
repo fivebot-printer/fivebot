@@ -4,7 +4,7 @@
 
 * Mounts to the front of the frame (or side, in case you use your printer rotated 90 deg with the dual z mod)
 * No grounding issues like the stock mount, causing sporiadic button clicks
-* Looks (subjectively nicer)
+* Looks (subjectively) nicer
 
 Main restriction on placement 
 
