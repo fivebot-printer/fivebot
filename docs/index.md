@@ -18,7 +18,7 @@ The intention is in no way to compete with the already existing and awesome [Zer
 ## Avilable mods
 * [Dual Z motors](dual-z.html) (beta version)
 * [Stepper motor bracket with thrust bearing](dual-z.html#stepper-motor-brackets) to potentially reduce Z-axis banding on prints (beta version)
-* [Display mount](display-mount.html) with better looks and no grounding issues
+* [Display mount](display.html) with better looks and no grounding issues
 
 List of planned modifications, roughly in order of priority:
 
