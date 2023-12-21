@@ -11,8 +11,8 @@ Main restriction on placement
 ## Bill of materials
 |Quantity|Item|Comments|
 |---|---|---|
-|4|M3 screws|8-10 mm screws will work|
-|2-4|M4 screws||
+|4|M3 screws|10 and 12 mm screws will work|
+|2-4|M4 screws|10 mm|
 |2-4|M4 T-nuts||
 
 ## Printed parts
