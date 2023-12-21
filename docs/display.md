@@ -5,8 +5,9 @@
 * Mounts to the front of the frame (or side, in case you use your printer rotated 90 deg with the dual z mod)
 * No grounding issues like the stock mount, causing sporiadic button clicks
 * Looks (subjectively) nicer
+* Main restriction on placement is the display cable, will look into spec for a longer one
+* Will be tweaked in the future to accomodate a panel if the printer is enclosed
 
-Main restriction on placement 
 
 ## Bill of materials
 |Quantity|Item|Comments|
