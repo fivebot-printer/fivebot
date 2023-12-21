@@ -2,7 +2,7 @@
 
 ![overview](assets/images/dual-z/overview.png)
 
-**Note:** Please read through the whole thing carefully before getting started!
+**Note:** Please read [general guidelines](index.html#general-instructions) before getting started
 
 ## Bill of materials
 |Quantity|Item|Comments|
@@ -15,15 +15,9 @@
 |1|Pack of M3 + M4 screws and hex nuts| Socket head screws of standard lengths (will specify specific quantities later)|
 
 ## Printed parts
-Print the parts in the [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
-
-The stock motor mount is included as a backup, I have not tested the mod mount yet but it should be fine (more rigid and not protude outside the frame).
-
-Print settings:
-* Filament: ABS or ASA preferrably, if not possible then PETG, would not recommend PLA (temperature and wear)
-* 5 top and bottom layers @ 0.2 mm layer height
-* Walls either 5 walls @ 0.4 mm line width or 4 walls @ 0.6 line width
-* 40% infill (or more)
+* Print the parts in the [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
+* Print instructions in [general guidelines](index.html#general-instructions)
+* The stock motor mount is included as a backup, I have not tested the two custom mounts yet but they should be better (more rigid and not protude outside the frame).
 
 ### Stepper motor brackets
 The mod contains two different Z stepper motor mounting brackets. One plain, and one tweaked so that a F9-20M thrust bearing fits snugly. The bearing rests on top of the stepper motor, and the lead screw coupler rests on top of the bearing. This moves the axial downward load from the stepper shaft to the stepper housing and mounting bracket, potentially reducing Z axis banding/artifacts.
