@@ -17,13 +17,9 @@
 |2-4|M4 T-nuts||
 
 ## Printed parts
-Print the parts in the [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/display/STLs), quantity per naming convention `[name]_[quantity].stl`.
-
-Print settings:
-* Filament: (almost) anything should work for this mod, ABS or ASA generally recommended
-* 5 top and bottom layers @ 0.2 mm layer height
-* Walls either 5 walls @ 0.4 mm line width or 4 walls @ 0.6 line width
-* 40% infill (or more)
+* [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/display/STLs)
+* Print instructions in [general guidelines](index.html#general-instructions)
+* Any filament should work for this specific mod, ABS or ASA general recommendation
 
 ## Installation
 1. Power down the printer
