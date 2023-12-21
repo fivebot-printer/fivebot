@@ -2,6 +2,9 @@
 
 ![overview](assets/images/display/display-mount.png)
 
+**Note:** Please read [general guidelines](index.html#general-instructions) before getting started
+
+## About the mod:
 * Mounts to the front of the frame (or side, in case you use your printer rotated 90 deg with the dual z mod)
 * No grounding issues like the stock mount, causing sporiadic button clicks
 * Looks (subjectively) nicer
