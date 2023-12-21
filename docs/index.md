@@ -15,13 +15,14 @@ The intention is in no way to compete with the already existing and awesome [Zer
 * Strive to keep it accessible for less experienced modders, minimize use of heat inserts, soldering etc or provide alternative routes
 * Provided with Klipper firmware configuration primarily (contributions for other firmares welcome of course)
 
-## Avilable modifications
+## Avilable mods
 * [Dual Z motors](dual-z.html) (beta version)
-* [Stepper motor bracket with thrust bearing](dual-z.html) to potentially reduce Z-axis banding on prints (beta version)
+* [Stepper motor bracket with thrust bearing](dual-z.html#stepper-motor-brackets) to potentially reduce Z-axis banding on prints (beta version)
+* [Stock display mount](display-mount.html)
 
 List of planned modifications, roughly in order of priority:
 
-* Stock display mount (development started)
+
 * Core-XY using stock roller wheels (lots of core-xy mods with rails already exist)
 * Modular toolhead for the stock gantry
 
