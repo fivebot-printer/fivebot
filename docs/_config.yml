@@ -14,3 +14,16 @@ aux_links:
     - "https://github.com/fivebot-printer/fivebot"
   "Download project files":
     - "https://github.com/fivebot-printer/fivebot/zipball/main"
+callouts:
+  warning:
+    color: red
+    title: Warning
+  important:
+    color: yellow
+    title: important
+  highlight:
+    color: yellow
+  note:
+    color: grey-lt
+    title: Note
+    
