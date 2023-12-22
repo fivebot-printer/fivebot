@@ -1,3 +1,7 @@
+---
+title: "Dual Z"
+---
+
 # fivebot Dual Z mod
 
 ![overview](assets/images/dual-z/overview.png)
