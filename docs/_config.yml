@@ -4,6 +4,7 @@ description: The fivebot 3D printer project, built on the Creality Ender 5 (Pro)
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
+color_scheme: fivebot
 url: https://fivebot-printer.github.io/fivebot
 markdown: GFM
 aux_links:
