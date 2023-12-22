@@ -1,3 +1,7 @@
+---
+title: "Display mount"
+---
+
 # fivebot Display Mount
 
 ![overview](assets/images/display/display-mount.png)
