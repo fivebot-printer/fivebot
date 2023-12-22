@@ -1,8 +1,16 @@
-remote_theme: pages-themes/cayman@v0.2.0
+name: fivebot documentation
+title: fivebot
+description: The fivebot 3D printer project, built on the Creality Ender 5 (Pro)
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
-title: fivebot
-description: A 3D printer project built on the Creality Ender 5 (Pro)
+url: https://fivebot-printer.github.io/fivebot
 home_url: /fivebot/
-show_downloads: true
+search_enabled: true
+search.button: true
 markdown: GFM
+aux_links:
+  "GitHub":
+    - "https://github.com/fivebot-printer/fivebot"
+  "Download project files":
+    - "https://github.com/fivebot-printer/fivebot/zipball/main"
