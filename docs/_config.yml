@@ -5,11 +5,10 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
 url: https://fivebot-printer.github.io/fivebot
-#home_url: /fivebot/
-#search_enabled: true
-#search.button: true
 markdown: GFM
 aux_links:
+  "Discord":
+    - "https://discord.com/invite/PU7RBwUmzd"
   "GitHub":
     - "https://github.com/fivebot-printer/fivebot"
   "Download project files":
