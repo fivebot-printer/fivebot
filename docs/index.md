@@ -1,6 +1,7 @@
 ---
-title: fivebot
+title: Home
 ---
+# The fivebot 3D printer
 
 ![fivebot-printer](assets/images/fivebot-printer.png)
 
