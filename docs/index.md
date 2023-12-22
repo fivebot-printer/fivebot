@@ -35,9 +35,13 @@ And future ideas and improvements:
 
 ## General instructions
 
+{: .warning }
 **DISCLAIMER:** any modification of your 3D printer is done at your own risk and this project comes without warranties!
 
 Read all of the instructions and notes before ripping your printer apart.
+
+### Assembly
+When assembling plastic parts, remember not to over-tighten and to come back and re-tighten if necessary (since all plastics will creep do varying degrees).
 
 ### Printed parts
 Files in each mod's STLs directory, linked from each page. Required quantity per naming convention `[name]_[quantity].stl`. Any alternatives or optional parts are specified per mod.
