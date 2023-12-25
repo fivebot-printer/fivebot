@@ -9,6 +9,7 @@ title: "Display mount"
 **Note:** Please read [general instructions](index.html#general-instructions) before getting started
 
 ## About the mod:
+
 * Mounts to the front of the frame (or side, in case you use your printer rotated 90 deg with the dual z mod)
 * No grounding issues like the stock mount, causing sporiadic button clicks
 * Looks (subjectively) nicer
@@ -17,6 +18,7 @@ title: "Display mount"
 
 
 ## Bill of materials
+
 |Quantity|Item|Comments|
 |:---|:---|:---|
 |4|M3 screws|10 and 12 mm screws will work|
@@ -24,11 +26,13 @@ title: "Display mount"
 |2-4|M4 T-nuts|Twist/roll in style preferred, drop in style works fine|
 
 ## Printed parts
+
 * [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/display/STLs)
 * Print instructions in [general instructions](index.html#general-instructions)
 * Any filament should work for this specific mod, ABS or ASA general recommendation
 
 ## Installation
+
 1. Power down the printer
 2. Disconnect the stock display and disassemble from the stock mount
 3. Mount the left and right brackets to the frame with M4 screws and T-nuts, use the front mount for reference on spacing
