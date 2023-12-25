@@ -21,9 +21,9 @@ The intention is in no way to compete with the already existing and awesome [Zer
 
 | Mod | Description | Status |
 | :--- | :--- | :--- |
-| [Dual Z](dual-z.html) | Dual lead screws and motors for the Z axis. | **beta release**{: .label .label-purple} |
-| [Thrust bearing stepper bracket](dual-z.html#stepper-motor-brackets)  |  Offload axial load on the Z stepper shaft(s) to potentially reduce Z-axis banding/artifacts | **beta release**{: .label .label-purple} |
-| [Display mount](display.html)  | Better looks and no grounding issues | **beta release**{: .label .label-purple} |
+| [Dual Z](dual-z.html) | Dual lead screws and motors for the Z axis. | **beta-release**{: .label .label-purple} |
+| [Thrust bearing stepper bracket](dual-z.html#stepper-motor-brackets)  |  Offload axial load on the Z stepper shaft(s) to potentially reduce Z-axis banding/artifacts | **beta-release**{: .label .label-purple} |
+| [Display mount](display.html)  | Better looks and no grounding issues | **beta-release**{: .label .label-purple} |
 
 List of planned modifications, roughly in order of priority:
 
