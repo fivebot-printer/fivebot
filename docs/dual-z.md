@@ -9,11 +9,12 @@ title: "Dual Z"
 **Note:** Please read [general instructions](index.html#general-instructions) before getting started
 
 ## Bill of materials
+
 |Quantity|Item|Comments|
-|:---|:---|:---|
+|-|-|-|
 |1|lead screw with nut|The screw thread needs to match your current lead screw, unless you buy two new identical ones. 363 mm length stock, 400 mm should work too|
 |1|stepper motor|creality 42-34 motor|
-|1|lead screw coupler||
+|1|lead screw coupler| 5 mm inner diameter (stepper motor shaft) one side and 8 mm (lead screw) on the other side|
 |1|stepper motor cable| For Creality steppers with middle pair of cables swapped. Single standard cable if you have a board with two Z motor connectors or a splitter cable if your board has one connector (e.g. the stock board)|
 |1|Pack of M4 T-nuts| Twist-in style preferred, drop-in style works fine|
 |1|Pack of M3 + M4 screws and hex nuts| Socket head screws of standard lengths (will specify specific quantities later)|
