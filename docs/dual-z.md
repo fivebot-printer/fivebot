@@ -6,9 +6,12 @@ title: "Dual Z"
 
 ![overview](assets/images/dual-z/overview.png)
 
+
+## Prep
+
 **Note:** Please read [general instructions](index.html#general-instructions) before getting started
 
-## Bill of materials
+### Bill of materials
 
 |Quantity|Item|Comments|
 |-|-|-|
@@ -19,7 +22,7 @@ title: "Dual Z"
 |1|Pack of M4 T-nuts| Twist-in style preferred, drop-in style works fine|
 |1|Pack of M3 + M4 screws and hex nuts| Socket head screws of standard lengths (will specify specific quantities later)|
 
-## Printed parts
+### Printed parts
 * Print the parts in the [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/dual-z/STLs), quantity per naming convention `[name]_[quantity].stl`.
 * Print instructions in [general instructions](index.html#general-instructions)
 * The stock motor mount is included as a backup, I have not tested the two custom mounts yet but they should be better (more rigid and not protude outside the frame).
