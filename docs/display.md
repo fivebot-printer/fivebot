@@ -18,10 +18,10 @@ title: "Display mount"
 
 ## Bill of materials
 |Quantity|Item|Comments|
-|:---:|:---:|:---:|
+|:-|:-|:-|
 |4|M3 screws|10 and 12 mm screws will work|
 |2-4|M4 screws|10 mm|
-|2-4|M4 T-nuts||
+|2-4|M4 T-nuts| |
 
 ## Printed parts
 * [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/display/STLs)
