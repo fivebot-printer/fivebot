@@ -18,6 +18,7 @@ The intention is in no way to compete with the already existing and awesome [Zer
 * Provided with Klipper firmware configuration primarily (contributions for other firmares welcome of course)
 
 ## Avilable mods
+
 | [Dual Z](dual-z.html) | Dual lead screws and motors for the Z axis. | **beta release**{: .label .label-purple} |
 | [Thrust bearing stepper bracket](dual-z.html#stepper-motor-brackets)  |  Potentially reduce Z-axis banding/artifacts | **beta release**{: .label .label-purple} |
 | [Display mount](display.html)  | Better looks and no grounding issues | **beta release**{: .label .label-purple} |
