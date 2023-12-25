@@ -6,8 +6,6 @@ title: "Display mount"
 
 ![overview](assets/images/display/display-mount.png)
 
-**Note:** Please read [general instructions](index.html#general-instructions) before getting started
-
 ## About the mod:
 
 * Mounts to the front of the frame (or side, in case you use your printer rotated 90 deg with the dual z mod)
@@ -16,8 +14,11 @@ title: "Display mount"
 * Main restriction on placement is the display cable, will look into spec for a longer one
 * Will be tweaked in the future to accomodate a panel if the printer is enclosed
 
+## Prep
 
-## Bill of materials
+**Note:** Please read [general instructions](index.html#general-instructions) before getting started
+
+### Bill of materials
 
 |Quantity|Item|Comments|
 |:---|:---|:---|
@@ -25,7 +26,7 @@ title: "Display mount"
 |2-4|M4 screws|10 mm|
 |2-4|M4 T-nuts|Twist/roll in style preferred, drop in style works fine|
 
-## Printed parts
+### Printed parts
 
 * [STLs directory](https://github.com/fivebot-printer/fivebot/tree/main/display/STLs)
 * Print instructions in [general instructions](index.html#general-instructions)
