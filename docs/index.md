@@ -28,28 +28,34 @@ The intention is in no way to compete with the already existing and awesome [Zer
 List of planned modifications, roughly in order of priority:
 
 * Core-XY using stock roller wheels (lots of core-xy mods with rails already exist)
-* Modular toolhead for the stock gantry
+* X-gantry adapters for other existing toolheads (thinking Voron, XOL, complicated mods)
+* Lightweight integrated toolhead for the stock hotend (easy mod)
 
 And future ideas and improvements:
-* Dual Z motors+ sync belt for single stepper driver use
+* Dual Z add-on motor sync belt, when used with a single stepper driver
+* Electronics comparment with more space for a bigger board and Pi
 * Belt-driven dual Z with a single motor
 * Touch screen mount/support
 * Affordable triple-z setup with linear rods and stock bed
 
+## Supporting the project
+A couple of things you can do to support:
+* Install the mods and share your feedback in the discord or as a [GitHub issue](https://github.com/fivebot-printer/fivebot/issues)
+* Submit documentations improvements, firmware configs or additional mods, ideally as a [pull-request](https://github.com/fivebot-printer/fivebot/pulls)
+* [Buy me a coffee](https://www.paypal.com/donate/?hosted_button_id=UQVMLLJJ374PJ) (or filament/hardware for development purposes!)
+
 ## General instructions
 
 {: .warning }
-**DISCLAIMER:** any modification of your 3D printer is done at your own risk and this project comes without warranties!
-
-Read all of the instructions and notes before ripping your printer apart.
+Any modification of your 3D printer is done at your own risk and this project comes without warranties! Take special care and attention when dealing with anyhing electricity. Read the instructions carefully before getting started and apply common sense.
 
 ### Assembly
-When assembling plastic parts, remember not to over-tighten and to come back and re-tighten if necessary (since all plastics will creep do varying degrees).
+When assembling plastic parts, remember not to over-tighten and to come back to check and re-tighten if necessary (since all plastics will creep to varying degrees).
 
 ### Printed parts
 Files in each mod's STLs directory, linked from each page. Required quantity per naming convention `[name]_[quantity].stl`. Any alternatives or optional parts are specified per mod.
 
-Currently STLs are not pre-oriented for printing, use your best judgement when slicing. Orientation be provided once the designs have matured.
+STLs should be oriented correctly for printing.
 
 **Print settings:**
 * Filament: ABS or ASA preferrably, if not possible then PETG, PLA not recommended unless stated otherwise (temperature and mechanical properties)
